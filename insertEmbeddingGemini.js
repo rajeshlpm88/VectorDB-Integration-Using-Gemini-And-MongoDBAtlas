@@ -1,4 +1,3 @@
-// Filename: insertEmbeddingGemini.js
 import { connectDB } from "./db.js";
 import { getEmbedding } from "./getEmbeddingGemini.js";
 
